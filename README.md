@@ -3,6 +3,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=00FF00&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Software+developer;I'm+a+programmer;Coding+and+solving+your+needs" />
 </a>
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=dianaramos19&cover_image=true&theme=default&show_offline=false&background_color=00aa00&interchange=false&bar_color=00ff00&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=dianaramos19&redirect=true)
+
+
 <!--
 **dianaramt/dianaramt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
