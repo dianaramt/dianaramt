@@ -29,11 +29,3 @@
 
 ---
 
-### Enlace de referencia para íconos:
-
-(estos enlaces los puedes cambiar según tus preferencias)
-
-[webdev]: #
-[css]: #
-[js]: #
-[react]: #
