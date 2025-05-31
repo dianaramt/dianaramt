@@ -4,15 +4,7 @@
 
 ---
 
-### Connect with me:
 
-[![website](./img/globe-light.svg)](https://dianaramt.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://dianaramt.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/dianaramt#gh-light-mode-only)
-[![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/dianaramt#gh-dark-mode-only)
-
----
 
 ### Languages and Tools:
 
