@@ -3,7 +3,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=00FF00&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Software+developer;I'm+a+programmer;Coding+and+solving+your+needs" />
 </a>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=dianaramos19&cover_image=true&theme=novatorem&show_offline=false&background_color=00aa00&interchange=false&bar_color=00ff00&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=dianaramos19&redirect=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dianaramos19/dianaramos19/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dianaramos19/dianaramos19/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/dianaramos19/dianaramos19/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+
 
 
 
