@@ -1,4 +1,7 @@
 ## Hi there 👋
+<a align="center" href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=00FF00&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Software+developer;I'm+a+Panamanian+programmer;Coding+and+solving+your+needs" />
+</a>
 
 <!--
 **dianaramt/dianaramt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
